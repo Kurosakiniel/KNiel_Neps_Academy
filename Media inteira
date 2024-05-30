@@ -1,9 +1,11 @@
 # Entrada de dados
 
-A = int(input())
-B = int(input())
+L = int(input())
 
+# Formula area quadrado
 
-media = int((A + B) / 2)
+Area_Quadrado = L**2
 
-print(f'{media}')
+# Saida
+
+print(f'{Area_Quadrado}')
